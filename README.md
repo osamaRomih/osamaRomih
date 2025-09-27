@@ -9,7 +9,7 @@
 Full Stack Developer skilled in building **modern and interactive web applications** 🌐 using both **Front-End** and **Back-End** technologies.  
 I love exploring new stacks 💻 and leveraging them to build clean, scalable, and user-friendly apps 🛠️.  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="margin-top: 30; display: inline-block" width="260px"/>
 
 ---
 

@@ -10,7 +10,7 @@
 Front-End Developer skilled in building **modern and interactive web applications** 🌐 using **Angular, JavaScript, TypeScript, and modern UI frameworks**.  
 I love exploring new stacks 💻 and leveraging them to build clean, scalable, and user-friendly apps 🛠️.  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="280px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="250px"/>
 
 
 

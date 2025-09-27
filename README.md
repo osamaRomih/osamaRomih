@@ -33,7 +33,6 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 <a><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a><img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></a>
-<!-- <a><img align="left" alt="Ng-Bootstrap" height ="42px" src="https://ng-bootstrap.github.io/assets/img/favicon/favicon.ico"></a> -->
 <a><img align="left" alt="Tailwind" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></a>
 <a><img align="left" alt="RxJS" height ="42px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"></a>
 <a><img align="left" alt="Bootstrap" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></a>
@@ -46,8 +45,7 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 <a><img align="left" alt="Express" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></a>
 <a><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></a>
 <a><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></a>
-<!-- <a><img align="left" alt="Networking" height ="42px" src="https://cdn-icons-png.flaticon.com/512/906/906361.png"></a>
-<a><img align="left" alt="Problem Solving" height ="42px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"></a> -->
+
 
 <br><br><br>
 
@@ -68,7 +66,7 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 📧 [osamaromih2020@gmail.com](mailto:osamaromih2020@gmail.com)  
 📱 [+20 1092225678](https://wa.me/201092225678)  
 💼 [LinkedIn](https://www.linkedin.com/in/osama-romih-web-developer-4566b6318/)  
-🌐 Portfolio Website: *Coming Soon*  
+🌐 Portfolio Website: https://osamaromih.github.io/Portfolio_Osama/
 
 ---
 

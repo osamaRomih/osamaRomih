@@ -20,9 +20,8 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 - 🤝 I’m open to collaborate on **Angular projects**  
 - 🌱 I’m currently learning **advanced Docker & cloud deployment**  
 - 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/OsamaRomih)  
-- 💬 Ask me about **Angular, Firebase, or UI/UX**  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/osama-romih-web-developer-4566b6318/), [WhatsApp](https://wa.me/201092225678), or [Email](mailto:osamaromih2020@gmail.com)  
-- 📝 Checkout my [Resume](mailto:osamaromih2020@gmail.com)  
+- 💬 Ask me about **Angular, Firebase,MongoDB, or Responsive ...**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/osama-romih-4566b6318/), [WhatsApp](https://wa.me/201092225678), or [Email](https://mail.google.com/mail/u/0/?fs=1&to=osamaromih2020@gmail.com&tf=cm)  
 
 
 
@@ -54,7 +53,7 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 ### 🛠️ Featured Projects
 - 🎓 **Educational Platform** – Connecting students & teachers with live chat, progress tracking, and lesson reports.  
 - 🏝️ **Tourism Booking System** – Tour packages with user-friendly forms using Angular + Node.js.  
-- 📊 **ERPNext System – "Dajin"** – Accounting & operations dashboards, integrated with Angular & deployed with Docker.  
+- 📊 **ERPNext System – "Dajen"** – Accounting & operations dashboards, integrated with Angular & deployed with Docker.  
 - 🛒 **E-commerce App** – Firebase-based shop with Auth & Firestore.  
 - 🧑‍💻 **Career Officer Platform** – Helping students learn programming & track progress with dashboards.  
 - 📚 **Tartebat Project** – Company management tool for scheduling & roles.  
@@ -63,9 +62,9 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 ---
 
 ### 📬 Contact Me
-📧 [osamaromih2020@gmail.com](mailto:osamaromih2020@gmail.com)  
+📧 [osamaromih2020@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=osamaromih2020@gmail.com&tf=cm)  
 📱 [+20 1092225678](https://wa.me/201092225678)  
-💼 [LinkedIn](https://www.linkedin.com/in/osama-romih-web-developer-4566b6318/)  
+💼 [LinkedIn](https://www.linkedin.com/in/osama-romih-4566b6318/)  
 🌐 Portfolio Website: https://osamaromih.github.io/Portfolio_Osama/
 
 ---

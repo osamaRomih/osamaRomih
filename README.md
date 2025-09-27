@@ -2,7 +2,7 @@
 <a href='mailto:osamaromih2020@gmail.com'><img align='left' alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height='18px'/></a>
 <a href='https://www.linkedin.com/in/osama-romih-4566b6318/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/OsamaRomih'><img align='left' alt="github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height='18px'/></a>
-<a href='https://www.facebook.com/'><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height='18px'/></a>
+<a href='https://www.facebook.com/osama.romih.12'><img alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height='18px'/></a>
 <a href='https://wa.me/201092225678'><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height='18px'/></a>
 
 <br/>

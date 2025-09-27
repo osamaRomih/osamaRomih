@@ -10,7 +10,7 @@
 Front-End Developer skilled in building **modern and interactive web applications** 🌐 using **Angular, JavaScript, TypeScript, and modern UI frameworks**.  
 I love exploring new stacks 💻 and leveraging them to build clean, scalable, and user-friendly apps 🛠️.  
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="250px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="350px"/>
 
 
 
@@ -31,19 +31,19 @@ I love exploring new stacks 💻 and leveraging them to build clean, scalable, a
 <a><img align="left" alt="SCSS" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png"></a>
 <a><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
 <a><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a><img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></a>
 <a><img align="left" alt="Tailwind" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></a>
+<a><img align="left" alt="Angular" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></a>
 <a><img align="left" alt="RxJS" height ="42px" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"></a>
 <a><img align="left" alt="Bootstrap" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></a>
 <a><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 <a><img align="left" alt="GitHub" height ="42px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
 <a><img align="left" alt="Azure" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></a>
 <a><img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"></a>
-<a><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></a>
-<a><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a><img align="left" alt="Express" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></a>
 <a><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></a>
+<a><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a><img align="left" alt="Docker" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></a>
 <a><img align="left" alt="PHP" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></a>
+<a><img align="left" alt="Express" height ="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></a>
 
 
 <br><br><br>
